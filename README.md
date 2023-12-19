@@ -2,8 +2,8 @@
 
 Implementing charts (Bar/Column) using PrimeNG and Ngx Charts with pagination in Angular.
 
-![PrimeNG Chart](/img/primeng.PNG)
-![Ngx Chart](/img/ngx-2.PNG)
+![PrimeNG Chart](/img/primeng.png)
+![Ngx Chart](/img/ngx-2.png)
 
 ## Features:
 1. Bar/Column Chart
