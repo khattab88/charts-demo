@@ -19,7 +19,7 @@ export class PrimengChartsComponent {
       labels: this.data.map((i: any) => i.name),
       datasets: [
         {
-          label: 'عدد الدعاوى',
+          label: 'Count',
           // backgroundColor: '#8FBDAF',
           data: this.data.map((i: any) => i.value)
         }
